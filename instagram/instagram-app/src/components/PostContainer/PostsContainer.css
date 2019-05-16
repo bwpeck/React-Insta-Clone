@@ -1,0 +1,40 @@
+.posts-container-wrap {
+    height: 50%;
+    width: 33%;
+    min-width: 550px;
+    margin: 10px auto;
+  }
+  .post-border {
+    border: 1px solid black;
+    margin: 10px 0;
+  }
+  .post-image-wrap {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .post-image {
+    width: 100%;
+  }
+  
+  .post-head {
+    display: flex;
+  }
+  
+  .post-thumb-wrap {
+    height: 50px;
+    width: 50px;
+  }
+  .post-thumb {
+    height: 100%;
+    border-radius: 50%;
+  }
+  .like-section {
+    display: flex;
+  }
+  
+  .like-section-wrap {
+    height: 15px;
+    width: 15px;
+    margin: 15px;
+  }

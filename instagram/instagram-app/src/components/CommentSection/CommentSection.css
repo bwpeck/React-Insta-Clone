@@ -1,0 +1,15 @@
+.comment-content {
+    text-align: center;
+    padding: 4px;
+    margin-left: 4px;
+  }
+  
+  .comment {
+    font-weight: 300;
+    font-size: 14px;
+  }
+  
+  .user {
+    font-weight: 400;
+    font-size: 17px;
+  }
